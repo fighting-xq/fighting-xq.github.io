@@ -17,23 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my bachelor's degree from Hefei University of Technology (HFUT) in 2021 and my master's degree from the National University of Defense Technology (NUDT) in 2024. My research interests include computer networks and intelligent systems. I am a phd candidate in Huazhong University of Science and Technology (HUST) now.
+I received my bachelor's degree from Hefei University of Technology (HFUT) in 2021 and my master's degree from National University of Defense Technology (NUDT) in 2024. I am a phd candidate in Huazhong University of Science and Technology (HUST) now. My research interests include computer networks and intelligent systems.
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2025.12.19*: &nbsp;🎉🎉 One paper was accpepted by TIFS. Thanks for the help of Tianyue Zheng(https://github.com/). 
+- *2025.12.19*: &nbsp;🎉🎉 One paper was accpepted by TIFS. Thanks for the help of [Tianyue Zheng](https://tianyuez.github.io/index.html). 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/mars.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToMM</div><img src='images/mars.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Agent DRL-based Multipath Scheduling for Video Streaming with QUIC](https://dl.acm.org/doi/full/10.1145/3649139)
 
 **Xueqiang Han**, Biao Han, Jinrong Li, Congxi Song
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wnwXH_UAAAAJ&citation_for_view=wnwXH_UAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='wnwXH_UAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wnwXH_UAAAAJ&citation_for_view=wnwXH_UAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='u5HHmVD_uO8C'></span></strong>
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
