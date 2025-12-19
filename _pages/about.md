@@ -38,6 +38,18 @@ I received my bachelor's degree from Hefei University of Technology (HFUT) in 20
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/loki.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Loki: Physical-World Adversarial Attacks on Wireless Indoor Localization via Differentiable Object Placement](https://ieeexplore.ieee.org/document/11296883)
+
+**Xueqiang Han**, Jinyang Huang, Meng Li, Chao Cai, Tianyue Zheng
+
+[**Project**](https://ieeexplore.ieee.org/document/11296883) <strong><span class='show_paper_citations' data='u5HHmVD_uO8C'></span></strong>
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+</div>
+</div>
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
