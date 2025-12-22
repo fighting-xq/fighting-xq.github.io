@@ -26,7 +26,7 @@ I received my bachelor's degree from Hefei University of Technology (HFUT) in 20
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToMM</div><img src='images/mars.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToMM'24</div><img src='images/mars.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-Agent DRL-based Multipath Scheduling for Video Streaming with QUIC](https://dl.acm.org/doi/full/10.1145/3649139)
@@ -38,7 +38,7 @@ I received my bachelor's degree from Hefei University of Technology (HFUT) in 20
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/loki.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'25</div><img src='images/loki.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Loki: Physical-World Adversarial Attacks on Wireless Indoor Localization via Differentiable Object Placement](https://ieeexplore.ieee.org/document/11296883)
