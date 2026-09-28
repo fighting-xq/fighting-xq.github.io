@@ -22,7 +22,9 @@ I am a phd candidate in Huazhong University of Science and Technology (HUST) now
 
 
 # 🔥 News
-- *2025.12.19*: &nbsp;🎉🎉 One paper was accpepted by TIFS. Thanks for the help of [Tianyue Zheng](https://tianyuez.github.io/index.html). 
+- *2026.09*: &nbsp;🎉🎉 One paper was accpepted by NIPS. 
+- *2026.3*: &nbsp;🎉🎉 One paper was accpepted by IWMUT(UbiComp). Thanks for the help of [Tianyue Zheng](https://tianyuez.github.io/index.html). 
+- *2025.12*: &nbsp;🎉🎉 One paper was accpepted by TIFS. Thanks for the help of [Tianyue Zheng](https://tianyuez.github.io/index.html). 
 
 # 📝 Publications 
 
