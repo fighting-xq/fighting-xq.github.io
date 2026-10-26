@@ -57,6 +57,7 @@ I am a phd candidate in Huazhong University of Science and Technology (HUST) now
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- Hunan Province Outstanding Master's Thesis
 
 # 📖 Educations
 - *2025.09 - (now)*, Huazhong University of Science and Technology (HUST), phd candidate. 
